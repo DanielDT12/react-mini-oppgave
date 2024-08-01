@@ -3,3 +3,14 @@
 	margin-block: 2rem;
 	padding-inline: clamp(1rem, 20%, 2rem);
 }
+
+.article {
+	border: 1px solid white;
+	padding: 2rem;
+	margin-bottom: 2rem;
+}
+
+.article__title {
+	font-size: 2rem;
+	margin-bottom: 1rem;
+}
