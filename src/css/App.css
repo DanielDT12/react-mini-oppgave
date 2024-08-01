@@ -1,0 +1,10 @@
+@import url(reset.css);
+@import url(header.css);
+
+html {
+	color-scheme: dark;
+}
+
+body {
+	font-family: system-ui, sans-serif;
+}

@@ -1,0 +1,18 @@
+.primary-header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 2rem;
+	background-color: rgb(95, 95, 95);
+	border-bottom: 1px solid white;
+}
+
+.header-logo {
+	color: white;
+	font-size: 2rem;
+	text-decoration: none;
+}
+
+.header-logo:hover {
+	text-decoration: underline;
+}
