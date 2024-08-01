@@ -1,0 +1,8 @@
+.primary-footer {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 10rem;
+	padding-inline: 1rem;
+	background-color: rgb(86, 86, 123);
+}

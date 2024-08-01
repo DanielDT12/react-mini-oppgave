@@ -1,5 +1,12 @@
 @import url(reset.css);
 @import url(header.css);
+@import url(main.css);
+@import url(footer.css);
+
+#root {
+	display: flex;
+	flex-direction: column;
+}
 
 html {
 	color-scheme: dark;
